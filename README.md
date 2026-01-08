@@ -12,7 +12,7 @@ Este projeto consiste em uma ferramenta de análise de dados desenvolvida em Exc
 O painel foi estruturado para responder a perguntas-chave de negócio:
 
 * **Total de Assinaturas:** Volume total de usuários na base.
-* **Auto-Renovação:** Quantidade e percentual de assinaturas com renovação automática ativa.
+* **Auto-Renovação:** Quantidade de assinaturas com renovação automática ativa.
 * **Segmentação por Plano:** Divisão detalhada entre planos **Anuais**, **Mensais** e **Trimestrais**.
 * **Nicho de Jogos e Serviços:** Monitoramento específico para assinantes de **Minecraft** e **EA Play**.
 * **Filtros Dinâmicos (Slicers):** Navegação intuitiva por períodos, permitindo análise histórica ou pontual.
@@ -21,8 +21,7 @@ O painel foi estruturado para responder a perguntas-chave de negócio:
 
 * **Tratamento de Dados:** Limpeza e padronização da base de assinaturas.
 * **Tabelas Dinâmicas:** Para a consolidação rápida dos valores.
-* **Fórmulas DAX/Excel:** Cálculo de métricas de retenção e status de renovação.
-* **Design de Dashboard:** Uso de gráficos de rosca para proporções e cartões para indicadores-chave (KPIs).
+* **Design de Dashboard:** Uso de gráficos para proporções e cartões para indicadores-chave (KPIs).
 
 ## 📂 Estrutura do Arquivo
 
@@ -40,17 +39,10 @@ O arquivo está organizado nas seguintes abas:
 
 ---
 
-## 📸 Visualização (Exemplo)
-
-
-
----
-
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome Aqui]**
-* **LinkedIn:** [Seu Link Aqui]
-* **GitHub:** [Seu Link Aqui]
+Desenvolvido por **Pryscilla S De Maria**
+* **LinkedIn:** (https://www.linkedin.com/in/pryscilla-s-maria/)
 
 ---
 *Este projeto foi criado para fins de estudo/portfólio de análise de dados.*
